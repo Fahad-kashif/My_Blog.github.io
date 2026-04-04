@@ -3,7 +3,6 @@ layout: page
 title: My Journey
 icon: fas fa-route
 order: 3
-permalink: /posts/my-university-journey/
 ---
 
 ## 🚀 My Journey Overview
