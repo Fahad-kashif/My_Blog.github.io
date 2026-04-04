@@ -1,6 +1,6 @@
 ---
 layout: post
-title: my university journey
+title: My University Journey
 date: 2026-04-04
 categories: portfolio
 tags: [university, coding, projects, leadership, learning, python, c-sharp, mysql, ieee, cis, events]
