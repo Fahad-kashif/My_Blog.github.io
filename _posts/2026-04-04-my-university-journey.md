@@ -4,7 +4,7 @@ title: My University Journey
 date: 2026-04-04
 categories: portfolio
 tags: [university, coding, projects, leadership, learning, python, c-sharp, mysql, ieee, cis, events]
-permalink: /posts/my-university-journey/
+permalink:/posts/my-university-journey/
 ---
 
 # 🎓 My University Journey
