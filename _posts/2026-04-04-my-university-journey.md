@@ -24,6 +24,8 @@ Friendly seniors helped me navigate classrooms, labs, and departments, making my
 ### Adjusting to Routine
 Learning to balance commuting, lectures, and assignments taught early lessons in time management.
 
+
+![Alt text describing the image](assets/uet_faisalabad_campus_cover.jpg)
 ---
 
 ## 2. First Experiences with Coding
@@ -50,6 +52,8 @@ Debugging failed programs taught patience and persistence.
 ### Tracking Improvement
 Gradual progress in assignments and quizzes boosted technical confidence.
 
+
+![programming banner](assets/programming-line-art-banner-01-o.jpg)
 ---
 
 ## 4. Programming Skills Development
@@ -128,6 +132,7 @@ Responding to faculty and audience questions enhanced comprehension and articula
 ### Confidence Growth
 Every presentation boosted public speaking and self-confidence.
 
+![programming banner](assets/teamwork-communication-career-horizontal-banner-260nw-1655341954.jpg)
 ---
 
 ## 10. Life Beyond Academics
