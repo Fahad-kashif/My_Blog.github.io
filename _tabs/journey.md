@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -154,6 +153,7 @@
         <p>
           Learn how university shaped my technical and leadership skills through real projects, events, and personal growth.
         </p>
+
         <!-- Using your exact Markdown-style link -->
         <div>
           - <a href="/posts/my-university-journey/">Read my journey</a>
