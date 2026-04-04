@@ -12,4 +12,4 @@ Welcome! Explore my coding, projects, university life, and leadership experience
 
 You can read the detailed journey post below:
 
-- [Read My Journey](/posts/my-university-journey/)
+- [Read My Journey]{{ '/posts/my-university-journey/' | relative_url }}
