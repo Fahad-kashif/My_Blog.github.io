@@ -11,4 +11,4 @@ Welcome! Explore my coding, projects, university life, and leadership experience
 
 You can read the detailed journey post below:
 
-- [Read my journey]({{ '/posts/my-university-journey/' | relative_url }})
+- [Read my journey]({% link _posts/2026-04-04-my-university-journey.md %})
