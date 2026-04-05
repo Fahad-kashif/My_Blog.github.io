@@ -159,6 +159,7 @@ Performing well reflected consistent effort and understanding.
 ### Recognizing Growth
 Feedback and results motivated tackling more complex subjects and projects.
 
+![Alt text describing the image](assets/creative-banner-featuring-educational-tools-online-exam-preparation-theme-colorful-illustration-showcasing-focus-exams-382721886.jpg)
 ---
 
 ## 12. Mastering Databases and Advanced Skills
