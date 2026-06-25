@@ -6,6 +6,8 @@ date: 2026-04-15
 categories: portfolio
 tags: [machine-learning, diabetes, healthcare, python, ai, data-science, project, learning]
 permalink: /posts/building-a-diabetes-prediction-model-using-machine-learning/
+
+---
 ------------------------------------------------------------------------------
 
 # 🤖 Building a Diabetes Prediction Model Using Machine Learning
