@@ -1,12 +1,11 @@
 ---
-
 layout: post
-title: What Database Systems Taught Me
+title: "What Database Systems Taught Me"
 date: 2026-04-12
 categories: portfolio
 tags: [database, sql, mysql, normalization, computer-engineering, uet, learning]
 permalink: /posts/what-database-systems-taught-me/
---------------------------------------------------
+---
 
 # 🗄️ What Database Systems Taught Me
 
