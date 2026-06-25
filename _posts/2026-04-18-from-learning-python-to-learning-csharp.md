@@ -6,6 +6,9 @@ date: 2026-04-18
 categories: portfolio
 tags: [python, c-sharp, programming, oop, software-development, learning, computer-engineering, uet]
 permalink: /posts/from-learning-python-to-learning-csharp/
+
+---
+
 ----------------------------------------------------------
 
 # 💻 From Learning Python to Learning C#
