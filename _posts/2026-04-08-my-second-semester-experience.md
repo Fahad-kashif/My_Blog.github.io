@@ -6,6 +6,8 @@ date: 2026-04-08
 categories: portfolio
 tags: [university, database, programming, c-sharp, learning, exams, uet, computer-engineering]
 permalink: /posts/my-second-semester-experience/
+
+---
 ------------------------------------------------
 
 # 📚 My Second Semester Experience at UET Faisalabad
